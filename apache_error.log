@@ -1,0 +1,1 @@
+[Tue Mar 22 10:36:06.982788 2016] [core:crit] [pid 902:tid 139857137489664] (13)Permission denied: [client 10.0.2.2:1738] AH00529: /home/miros/www/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/home/miros/www/' is executable
